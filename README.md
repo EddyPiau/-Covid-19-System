@@ -20,5 +20,9 @@ track of their test status whether the test was a positive or negative. Test sta
 
 ![Screenshot 2025-03-12 123728](https://github.com/user-attachments/assets/1c8ce593-ee0c-43b0-af0c-0310a34da865)
 
+Program output:
+![image](https://github.com/user-attachments/assets/0801eb47-03ce-46fe-99e2-d1a55dd0aafb)
+
+
 **Remark:
 This is a collaborative group project. Credit goes to my coursemates for their valuable contributions.**
